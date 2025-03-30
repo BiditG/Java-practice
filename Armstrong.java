@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Armstrong {
     public static void main(String[] args) {
-        int num = 12345;
+        int num = 1225;
         int sum = 0;
         int n = num;
         while (n > 0) {
